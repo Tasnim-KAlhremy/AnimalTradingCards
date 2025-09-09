@@ -34,7 +34,7 @@ body {
     width: 660px;
 }
 
-.AnimalImg {
+.animal-image {
     width: 300px;
     margin-bottom: 2rem;
 }
@@ -50,7 +50,7 @@ body {
 
 }
 
-.factInf {
+.animal-fact {
     font-style: italic;
     font-size: 20px;
 
